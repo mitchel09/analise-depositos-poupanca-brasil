@@ -72,4 +72,4 @@ COVID-19 no comportamento financeiro da população.
 ## 👩‍💻 Autora
 
 **Michelly Natally**
-[LinkedIn](www.linkedin.com/in/michelly-rodrigues-a7905797) • [GitHub](https://github.com/mitchel09)
+[LinkedIn](https://www.linkedin.com/in/michelly-rodrigues-a7905797) • [GitHub](https://github.com/mitchel09)
