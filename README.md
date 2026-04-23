@@ -55,7 +55,7 @@ COVID-19 no comportamento financeiro da população.
 
 ## 📁 Estrutura do Projeto
 ├── README.md
-├── analise_poupanca.ipynb
+├── Análise_poupanca.ipynb
 └── data/
 └── ipeadata_2017_2022.xls
 
